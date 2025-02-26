@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "FoldC",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "localhost",
+    "port": 25565,
+    "version": "1.13.1"
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "APALU890"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 30,
+
+      "messages": [
+        "/server survival2",
+        "",
+        ""
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
